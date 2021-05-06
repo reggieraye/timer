@@ -1,1 +1,32 @@
-more crap
+GRIPPER
+-lower channel elements need to be wider (tighter tolerance)
+-needs to be taller
+-make bottom flat
+-make spiral beefier
+-lengthen back wings + angle
+-add second set of rear wings
+-add bilateral pointer
+
+RULER
+-add numbers
+-add tomo branding to bottom (copy paste from gripper)
+-make notches run down walls
+-make entire base solid
+-make 1 mm wider
+-make center/body intersection a circle
+
+CENTER
+-higher angle for bottom face of circle
+
+PRINT SETTINGS
+-increase extrusion width
+-one unit at a time, gripper in PLA
+-lower temp
+-3 shells
+
+
+
+
+
+
+
